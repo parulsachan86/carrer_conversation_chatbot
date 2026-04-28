@@ -204,7 +204,11 @@ class CareerChatbot:
 # --- MAIN ---
 def main():
     bot = CareerChatbot()
-    gr.ChatInterface(bot.chat_logic, type="messages").launch()
+    port = int(os.environ.get("PORT", 10000))
+    gr.ChatInterface(bot.chat_logic, type="messages").launch(
+        server_name="0.0.0.0", 
+        server_port=port
+    )
 
 if __name__ == "__main__":
     main()
