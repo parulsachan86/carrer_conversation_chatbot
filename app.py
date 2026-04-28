@@ -205,7 +205,7 @@ class CareerChatbot:
 def main():
     bot = CareerChatbot()
     port = int(os.environ.get("PORT", 10000))
-    gr.ChatInterface(bot.chat_logic, type="messages").launch(
+    gr.ChatInterface(bot.chat_logic).launch(
         server_name="0.0.0.0", 
         server_port=port
     )
