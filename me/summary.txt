@@ -1,0 +1,12 @@
+My name is Parul.I am a full stack engineer with 1.5+ years building production-grade, event-driven web applications — previoisly working at Addverb Technologies, a robotics-tech company where software directly drives warehouse automation at scale.
+ 
+I work across the full stack: React.js frontends with strict type-safety (Zod, TanStack Query), Spring Boot backends, and distributed systems using RabbitMQ and MongoDB. I ship code that's tested (90%+ coverage with JUnit/Mockito), optimized, and built to last — not just to wor.
+ 
+A few things I've shipped: 
+— Automated a Finance & Legal PO/BOE workflow that replaced legacy email processes, cutting operational overhead by 50% 
+— Optimized sortation algorithms for warehouse systems, delivering 18% throughput gains across three large-scale projects 
+— Reduced API response times by 30% and page load by 28% through MongoDB aggregation pipelines and frontend lazy loading
+ 
+Academic foundation: M.Tech CSE from IIIT Bangalore (2024) · GATE CS AIR 1321 (98.6th percentile) · UGC NET/JRF qualified
+ 
+Stack: Java · Spring Boot · React.js · TypeScript · JavaScript · RabbitMQ · MongoDB · MySQL · Redis · Docker · Grafana
